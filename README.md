@@ -1,2 +1,0 @@
-# jsltsample
-Practice JSLT
